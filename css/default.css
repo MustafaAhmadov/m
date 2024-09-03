@@ -51,6 +51,11 @@ b,strong{
 dfn{
     font-style:italic
 }
+.resume-sofaz-logo{
+    width: 180px; 
+    height: auto; 
+}
+
 h1{
     font-size:2em;
     margin:.67em 0
